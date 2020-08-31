@@ -20,7 +20,7 @@ public class HelloController {
 		@GetMapping("/")
 		String hello() {
 
-			return "Hello Ons : Test Heroku Deployment";
+			return "Hello Ons : Test Heroku Deployment UPDATED";
 		}}
 
 
