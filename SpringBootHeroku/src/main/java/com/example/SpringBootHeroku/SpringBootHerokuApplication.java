@@ -9,5 +9,5 @@ public class SpringBootHerokuApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootHerokuApplication.class, args);
 	}
-	System.out.println("Hello Ons");
+
 }

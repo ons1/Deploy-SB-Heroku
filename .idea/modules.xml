@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Deploy-SB-Heroku.iml" filepath="$PROJECT_DIR$/.idea/Deploy-SB-Heroku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootHeroku/SpringBootHeroku.iml" filepath="$PROJECT_DIR$/SpringBootHeroku/SpringBootHeroku.iml" />
     </modules>
   </component>
 </project>
