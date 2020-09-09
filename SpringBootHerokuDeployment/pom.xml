@@ -8,6 +8,7 @@
 		<version>2.3.4.BUILD-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+<!-- comment -->
 	<groupId>com.example</groupId>
 	<artifactId>SpringBootHerokuDeployment</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
